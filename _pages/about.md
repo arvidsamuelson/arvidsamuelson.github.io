@@ -18,7 +18,7 @@ My research interests involve moral development and social cognition, with a foc
 ## A small biography
 I was born in Stockholm, Sweden, and I lived in England as a child before moving to the United States. I received my B.A. in Psychology from [UC Santa Cruz](https://www.ucsc.edu). 
 
-Outside of research, I enjoy working out, listening to music, and taking photos (that I at least think look nice). See more below!
+Outside of research, I enjoy working out, listening to music, and taking photos (that I at least think look nice).
 
 ### 2023 Spotify Wrapped
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/05yYXP9P0UZe0eitL2UCkH?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
