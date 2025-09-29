@@ -5,5 +5,6 @@ author_profile: true
 redirect_from:
   - /resume
 sitemap: false
+Content-Disposition: inline
 ---
 <iframe src="{{ site.baseurl }}/images/SamuelsonCV9.29.25.pdf" width="100%" height="600px" style="border: none;"></iframe>
