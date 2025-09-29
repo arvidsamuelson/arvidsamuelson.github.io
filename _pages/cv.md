@@ -6,4 +6,4 @@ redirect_from:
   - /resume
 sitemap: false
 ---
-<iframe src="{{ site.baseurl }}/images/SamuelsonCV.pdf" width="100%" height="600px" style="border: none;"></iframe>
+<iframe src="{{ site.baseurl }}/images/SamuelsonCV 9.29.25.pdf" width="100%" height="600px" style="border: none;"></iframe>
