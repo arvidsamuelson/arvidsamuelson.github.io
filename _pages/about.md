@@ -20,9 +20,6 @@ I was born in Stockholm, Sweden, and I lived in England as a child before moving
 
 Outside of research, I enjoy working out, playing video games, listening to music, and taking photos (that I at least think look nice).
 
-### 2024 Spotify Wrapped
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1FoS1qz7XHFED5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
 ### Some of my nicer photos
 <div style="display: flex; justify-content: space-around;">
   <img src="{{ site.baseurl }}/images/photo1.JPG" alt="Photo 1" style="width: 30%; margin: 10px;">
