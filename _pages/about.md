@@ -11,7 +11,7 @@ In most cases, people, even wicked people, are far more naive and simple-hearted
 
 Welcome to my website!
 ------
-I'm a PhD Student in the [Developmental Psychology Lab](https://dmplab.cornell.edu/) working with [Audun Dahl](https://psychology.cornell.edu/audun-dahl). I am supported in part by the [NSF GRFP](https://www.nsfgrfp.org/).
+I'm a PhD Candidate in the [Developmental Psychology Lab](https://dmplab.cornell.edu/) working with [Audun Dahl](https://psychology.cornell.edu/audun-dahl). I am supported in part by the [NSF GRFP](https://www.nsfgrfp.org/).
 
 My research interests involve moral development and social cognition, with a focus on how children and adults understand moral disagreement. I am especially interested in trying to figure out when we see each other as reasonable, even while we may disagree. 
 
